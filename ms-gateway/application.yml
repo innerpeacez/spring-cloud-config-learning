@@ -6,5 +6,6 @@ eureka:
      defaultZone: http://localhost:8888/eureka
     healthCheck:
       enabled: true
-server:
-  port: 8889
+spring:
+  application:
+    name: ms-gateway
