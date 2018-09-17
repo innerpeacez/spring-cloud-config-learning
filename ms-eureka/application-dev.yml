@@ -7,4 +7,4 @@ eureka:
     healthCheck:
       enabled: true
 server:
-  port: 9999
+  port: 8888
